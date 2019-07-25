@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hola this is my first personal Github website
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Aspring Data Scientist at BrainStation.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[chenyiwen238@gmail.com](mailto:chenyiwen238@gmail.com)
